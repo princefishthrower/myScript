@@ -1,0 +1,21 @@
+{
+    "typescript.suggest.enabled": false,
+    "window.zoomLevel": 3,
+    "explorer.autoReveal": false,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.autoIndent": "none",
+    "github.copilot.enable": {
+        "*": false,
+    },
+    "window.restoreFullscreen": true,
+    "window.newWindowDimensions": "fullscreen",
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.startupPrompt": "never",
+    "user.restrict.extensions": false,
+    "extensions.ignoreRecommendation": true,
+    "window.menuBarVisibility": "compact",
+    "window.titleBarStyle": "custom",
+    "workbench.startupEditor": "none",
+}
